@@ -1,0 +1,12 @@
+h2.introduction{
+  color: red;
+  text-align: center;
+}
+p.introduction{
+  text-align: left;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;  
+}
+img.introduction{
+  height: 3in;
+  width: 4in;
+}

@@ -1,12 +1,12 @@
-h2.introduction{
+.introduction{
   color: red;
   text-align: center;
 }
-p.introduction{
+.introduction{
   text-align: left;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;  
 }
-img.introduction{
+img{
   height: 3in;
   width: 4in;
 }
